@@ -1,4 +1,4 @@
-![Greeting](/header.png)
+![header](/github-header-image.png)
 <!--
 **Gruf1/Gruf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
