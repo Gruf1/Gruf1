@@ -1,5 +1,6 @@
 ![Header](/githubheader.png)
 
+<img align='right' src='https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif' width='200'>
 <h2>About me :</h2>
 <p>:computer: I’m junior frontend developer from Kazakhstan.</p>
 <p>:mortar_board: I'm currently studying at Hexlet programming school.</p>
